@@ -1,2 +1,3 @@
 questa è una prova di git. Ora sono sul branch master
 new line from dev
+new line directly from master
